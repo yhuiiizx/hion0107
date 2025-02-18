@@ -2,7 +2,7 @@ name: Run tmux sessions
 
 on:
   schedule:
-    - cron: '4 19 * * *' # 
+    - cron: '35 7 * * *' # 
 
 jobs:
   run-sessions:
